@@ -127,6 +127,3 @@ Each incident has the following structure:
 
 5. **MongoDB & Mongoose**: Chosen for ease of use and flexibility in document structure.
 
-## License
-
-[ISC License](LICENSE)
